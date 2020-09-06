@@ -1,4 +1,4 @@
-// return a random item in an arry
+// return a random item in an array
 function sample(array) {
   const index = Math.floor(Math.random() * array.length)
   return array[index]
